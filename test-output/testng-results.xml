@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Everjobs Suite" duration-ms="45137" started-at="2019-10-01T07:09:10Z" finished-at="2019-10-01T07:09:55Z">
+    <groups>
+    </groups>
+    <test name="Page Object Model Project" duration-ms="45137" started-at="2019-10-01T07:09:10Z" finished-at="2019-10-01T07:09:55Z">
+      <class name="testCases.Homepage">
+        <test-method status="PASS" signature="Setup(java.lang.String)[pri:0, instance:testCases.Homepage@475530b9]" name="Setup" duration-ms="45088" started-at="2019-10-01T07:09:10Z" finished-at="2019-10-01T07:09:55Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[https://www.sathya.in]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Setup -->
+      </class> <!-- testCases.Homepage -->
+    </test> <!-- Page Object Model Project -->
+  </suite> <!-- Everjobs Suite -->
+</testng-results>

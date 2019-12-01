@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Everjobs Suite">
+<test name="Page Object Model Project">
+<parameter name="url" value="https://www.sathya.in"/>
+<classes>
+<class name="testCases.Homepage" />
+<!--  <class name="test.FlipkartLoginTest" />-->
+</classes>
+</test>
+</suite>
